@@ -23,9 +23,9 @@
     "node-uuid": "~1.4.0",
     "leveldown": "~0.7.0",
     "eyes": "~0.1.8",
-    "levelup": "~0.13.0",
     "jsonquery-engine": "0.0.5",
-    "level-queryengine": "~0.1.1"
+    "level-queryengine": "~0.1.1",
+    "level": "~0.15.0"
   },
   "files": [
     "README.md",
