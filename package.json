@@ -26,7 +26,7 @@
     "level": "~0.15.0",
     "jsonquery-engine": "0.0.5",
     "level-queryengine":
-      "git://github.com/dominictarr/level-queryengine.git#patch-1"
+      "0.1.2"
   },
   "files": [
     "README.md",
